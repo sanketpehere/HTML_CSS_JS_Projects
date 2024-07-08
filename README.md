@@ -1,1 +1,1 @@
-HTML, CSS, JS Projects
+<head>HTML, CSS, JS Projects</head>
